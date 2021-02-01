@@ -1,0 +1,54 @@
+.Flight{
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px #ccc;
+    width: 300px;
+    padding: 20px;
+}
+/* .Flight::-webkit-scrollbar {
+    display: none;
+} */
+
+.a{
+    margin-top: 50px;
+    display: inline-block;
+    
+}
+
+.FromTo{
+    display: inline-flex;
+}
+table.b{
+    table-layout: fixed;
+    width: 200px;  
+}
+.Flightlist{
+    display: flex;
+}
+
+.search{
+    margin-top: 70px;
+    display: inline-table;
+    width: 300px;
+
+}
+
+.Book-class{
+    margin-left: 75px;
+    margin-top: 10px;
+}
+
+.Book-submit{
+    margin-left: 250px;
+    display: flex;
+    /* padding-left: 2px; */
+}
+
+.cancel-button{
+    margin-right: 5px;
+}
+.source{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
